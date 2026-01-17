@@ -14,10 +14,10 @@ The gaming industry has evolved rapidly over the past few decades. What started 
 
 Here are some of the most exciting games that are a must-try for any gamer. Each game offers a unique experience, and we cover them in detail across the site:
 
-- [Game 1: Fortnite](./pages/game1.md)  
+- [Game 1: Fortnite](game1.md)  
   A fast-paced battle royale game where 100 players compete to be the last one standing.
 
-- [Game 2: Minecraft](./pages/game2.md)  
+- [Game 2: Minecraft](game2.md)  
   The world-famous sandbox game that allows players to build, mine, and explore infinite worlds.
 
 ## Why Gaming is Important
@@ -60,8 +60,9 @@ The world of computer and console games continues to grow and evolve, and this w
 
 Feel free to explore the individual game pages and dive into the detailed world of each title!
 
-- [Read more about Fortnite](.game1.md)
+- [Read more about Fortnite](game1.md)
 - [Learn about Minecraft](game2.md)
+
 
 
 
