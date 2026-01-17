@@ -60,8 +60,9 @@ The world of computer and console games continues to grow and evolve, and this w
 
 Feel free to explore the individual game pages and dive into the detailed world of each title!
 
-- [Read more about Fortnite](./pages/game1.md)
-- [Learn about Minecraft](./pages/game2.md)
+- [Read more about Fortnite](.game1.md)
+- [Learn about Minecraft](.game2.md)
+
 
 
 
