@@ -38,5 +38,6 @@ Minecraft's simplicity, combined with its depth and creative potential, has made
 [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Minecraft)  
 [Visit Minecraft Official Website](https://www.minecraft.net)
 
-### [Back to Home Page](home.md)
+### [Back to Home Page](index.md)
+
 
