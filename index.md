@@ -17,10 +17,7 @@ Here are some of the most exciting games that are a must-try for any gamer. Each
 - [Game 1: Fortnite](./pages/game1.md)  
   A fast-paced battle royale game where 100 players compete to be the last one standing.
 
-- [Game 2: Red Dead Redemption 2](./pages/game2.md)  
-  A gripping open-world western game that tells the story of outlaw Arthur Morgan and the Van der Linde gang.
-
-- [Game 3: Minecraft](./pages/game3.md)  
+- [Game 3: Minecraft](./pages/game2.md)  
   The world-famous sandbox game that allows players to build, mine, and explore infinite worlds.
 
 ## Why Gaming is Important
@@ -65,4 +62,5 @@ Feel free to explore the individual game pages and dive into the detailed world 
 
 - [Read more about Fortnite](./pages/game1.md)
 - [Learn about Minecraft](./pages/game2.md)
+
 
