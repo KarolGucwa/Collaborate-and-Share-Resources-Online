@@ -1,4 +1,5 @@
 # Fortnite
+!(image.jpg)
 
 ## Introduction
 
@@ -39,5 +40,6 @@ Fortnite's blend of fast action, creative gameplay, and frequent updates made it
 [Visit Fortnite on Epic Games](https://www.epicgames.com/fortnite)
 
 ### [Back to Home Page](index.md)
+
 
 
