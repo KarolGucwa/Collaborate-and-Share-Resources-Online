@@ -1,4 +1,5 @@
 # Minecraft
+!(image1.jpg)
 
 ## Introduction
 
@@ -39,5 +40,6 @@ Minecraft's simplicity, combined with its depth and creative potential, has made
 [Visit Minecraft Official Website](https://www.minecraft.net)
 
 ### [Back to Home Page](index.md)
+
 
 
