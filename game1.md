@@ -38,5 +38,6 @@ Fortnite's blend of fast action, creative gameplay, and frequent updates made it
 [Learn more on Wikipedia](https://en.wikipedia.org/wiki/Fortnite)  
 [Visit Fortnite on Epic Games](https://www.epicgames.com/fortnite)
 
-### [Back to Home Page](home.md)
+### [Back to Home Page](index.md)
+
 
